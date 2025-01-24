@@ -1,0 +1,15 @@
+.slate-900 {
+    background-color: var(--slate-900);
+}
+
+.slate-500 {
+    background-color: var(--slate-500);
+}
+
+.slate-300 {
+    background-color: var(--slate-300);
+}
+
+.white {
+    background-color: var(--white);
+}

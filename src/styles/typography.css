@@ -1,0 +1,22 @@
+:root {
+    --slate-300: #D5E1EF;
+    --slate-500: #68778D;
+    --slate-900: #1F314F;
+    --white: #FFFFFF;
+}
+
+
+.text-preset-1 {
+    font: bold 22px 'Outfit', sans-serif;
+    color: var(--slate-900);
+    line-height: 1.2;
+    letter-spacing: 0;
+    margin-bottom: 16px;
+}
+
+.text-preset-2 {
+    font: normal 15px 'Outfit', sans-serif;
+    color: var(--slate-500);
+    line-height: 1.4;
+    letter-spacing: 0.2px;
+}
