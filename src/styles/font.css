@@ -1,6 +1,1 @@
-@font-face {
-    font-family: "Outfit";
-    src: url("./font/Outfit.ttf") format("truetype");,
-    url("./font/Outfit.ttf") format("truetype");
-
-}
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
